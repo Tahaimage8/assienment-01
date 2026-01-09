@@ -53,7 +53,7 @@ nav ul a {
  
     min-height: 80vh;
     display: flex;
-    background: url(/assets/hero-bg.png) no-repeat;
+    background: url(../assets/hero-bg.png) no-repeat;
     background-size: cover;
     background-position: center;
     align-items: center;
