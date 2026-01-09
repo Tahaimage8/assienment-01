@@ -133,6 +133,10 @@ font-size:20px;
     margin-left: 10px;
 }
 
+.home #dot{
+    border: 1px solid green;
+    border-radius: 900000%; 
+}
 /* box section start  */
 
 
@@ -248,6 +252,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     position: relative;
     flex-direction: column;
     background-color: rgb(242, 242, 242);
+    border-radius: 20px;
 }
 .last-section{
     padding: 4% ;
@@ -316,5 +321,6 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgba(255, 255, 255, 0.7);
 }
 /* footer section end  */
+/* hover  */
 
 /* css full end  */
